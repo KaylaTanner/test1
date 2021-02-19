@@ -1,0 +1,5 @@
+field,index,display
+title,true,true
+actnumber,true,true
+billnumber,true,true
+date,true,true

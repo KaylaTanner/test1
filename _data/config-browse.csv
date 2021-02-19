@@ -1,0 +1,5 @@
+field,display_name,btn,
+actnumber,Public Act Number,true,
+billnumber,Bill Number,true,
+date,Date of Publication,true,
+

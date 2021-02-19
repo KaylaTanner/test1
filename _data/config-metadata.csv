@@ -1,0 +1,6 @@
+field,display_name,browse_link
+title,Title,true
+actnumber,Public Act Number,true
+billnumber,Bill Number,true
+date,Date Published,true
+format,Format,
